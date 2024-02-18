@@ -78,3 +78,103 @@ If you're looking for news and updates about Frontity, [Twitter](https://twitter
 ### Contributing
 
 Frontity welcomes contributions in all forms. There are many different ways to support the project. Check out the **[How to contribute](https://docs.frontity.org/contributing/how-to-contribute)** page for ideas on contributing and helping make Frontity better.
+ '/category/target-group/africans-scholarships/page/6/'
+      '/category/target-group/africans-scholarships/': [Object],
+      'undefined/': [Object],
+      '/scholarships3/': [Object],
+      '/scholarships2/': [Object],
+      '/scholarships5/': [Object],
+      '/scholarships1/': [Object],
+      '/scholarships4/': [Object],
+      '/category/level-of-study/masters-scholarships/': [Object],
+      '/category/field-of-study/environment-scholarships/': [Object],
+      '/category/country/canada-scholarships/': [Object],
+      '/category/country/europe-scholarships/': [Object],
+      '/category/field-of-study/development-scholarships/': [Object],
+      '/category/field-of-study/health-scholarships/': [Object],
+      '/category/field-of-study/economics-and-finance-scholarships/': [Object],
+      '/category/field-of-study/education-scholarships/': [Object],
+      '/category/level-of-study/undergraduate-scholarships/': [Object],
+      '/category/closed-scholarships/': [Object],
+      '/category/deadline/annual-scholarships/': [Object],
+      '/category/field-of-study/agriculture-forestry-and-fisheries-scholarships/': [Object],
+      '/category/target-group/asians-scholarships/': [Object],
+      '/category/field-of-study/human-development-scholarships/': [Object],
+      '/category/target-group/latin-americans-scholarships/': [Object],
+      '/category/field-of-study/information-technology-scholarships/': [Object],
+      '/category/field-of-study/any-field-of-study-scholarships/': [Object],
+      '/category/deadline/jan-march-deadline/': [Object],
+      '/category/deadline/april-june-deadline/': [Object],
+      '/category/deadline/oct-dec-deadline/': [Object],
+      '/category/field-of-study/engineering-scholarships/': [Object],
+      '/category/target-group/any-developing-country-scholarships/': [Object],
+      '/category/country/europe-scholarships/netherlands-scholarships/': [Object],
+      '/category/target-group/asians-scholarships/east-asians-scholarships/': [Object],
+      '/category/field-of-study/humanities-scholarships/': [Object],
+      '/category/target-group/east-europeans-scholarships/': [Object],
+      '/tag/scholarships-for-africans/': [Object],
+      '/tag/scholarships-for-asians/': [Object],
+      '/tag/scholarships-for-african-women/': [Object],
+      '/tag/scholarships-for-burmese/': [Object],
+      '/tag/scholarships-for-afghans/': [Object],
+      '/tag/scholarships-for-bangladeshi/': [Object],
+      '/tag/scholarships-for-bhutanese/': [Object],
+      '/tag/scholarships-for-any-developing-country/': [Object],
+      '/tag/university-scholarships/': [Object],
+      '/tag/scholarships-for-bolivians/': [Object],
+      '/tag/scholarships-for-albanians/': [Object],
+      '/tag/scholarships-for-argentinians/': [Object],
+      '/tag/scholarships-for-armenians/': [Object],
+      '/tag/scholarships-for-azerbaijans/': [Object],
+      '/tag/scholarships-for-botswana/': [Object],
+      '/tag/scholarships-for-algerians/': [Object],
+      '/tag/scholarships-for-angolans/': [Object],
+      '/tag/scholarships-for-benin-people/': [Object],
+      '/tag/scholarships-for-antigua-barbuda/': [Object],
+      '/tag/scholarships-for-barbadians/': [Object],
+      '/tag/scholarships-for-belize/': [Object],
+      '/tag/scholarships-for-british-virgin-islands/': [Object],
+      '/tag/scholarships-for-cameroonians/': [Object],
+      '/tag/scholarships-for-bermuda/': [Object],
+      '/tag/excellence-scholarships/': [Object],
+      '/tag/oxford-scholarships/': [Object],
+      '/tag/research-scholarships/': [Object],
+      '/tag/commonwealth-scholarships/': [Object],
+      '/tag/scholarships-for-anguilla/': [Object],
+      '/1429/leiden-university-excellence-scholarship-for-non-eu-students/': [Object],
+      '/2043/gates-scholarships-for-international-students-at-university-of-cambridge/': [Object],
+      '/2191/weidenfeld-scholarships-at-university-of-oxford/': [Object],
+      '/2333/ilot-scholarships-at-university-of-british-columbia/': [Object],
+      '/2457/eric-bleumink-scholarships-for-developing-countries-at-university-of-groningen/': [Object],
+      '/4900/commonwealth-scholarships-for-developing-commonwealth-countries/': [Object],
+      '/9330/cambridge-international-scholarship-scheme-ciss/': [Object],
+      '/9784/vu-university-amsterdam-fellowship-programme-for-international-students/': [Object],
+      '/10809/tu-delft-excellence-scholarships-for-international-students/': [Object],
+      '/20918/lester-b-pearson-international-scholarship-program-at-university-of-toronto/': [Object]
+
+          '/category/level-of-study/masters-scholarships/',
+      '/category/field-of-study/environment-scholarships/',
+      '/category/country/canada-scholarships/',
+      '/category/country/europe-scholarships/',
+      '/category/field-of-study/development-scholarships/',
+      '/category/field-of-study/health-scholarships/',
+      '/category/field-of-study/economics-and-finance-scholarships/',
+      '/category/field-of-study/education-scholarships/',
+      '/category/level-of-study/undergraduate-scholarships/',
+      '/category/closed-scholarships/'
+      '/category/deadline/annual-scholarships/'
+      '/category/field-of-study/agriculture-forestry-and-fisheries-scholarships/'
+      '/category/target-group/asians-scholarships/'
+      '/category/field-of-study/human-development-scholarships/'
+      '/category/target-group/latin-americans-scholarships/'
+      '/category/field-of-study/information-technology-scholarships/'
+      '/category/field-of-study/any-field-of-study-scholarships/'
+      '/category/deadline/jan-march-deadline/'
+      '/category/deadline/april-june-deadline/'
+      '/category/deadline/oct-dec-deadline/'
+      '/category/field-of-study/engineering-scholarships/'
+      '/category/target-group/any-developing-country-scholarships/'
+      '/category/country/europe-scholarships/netherlands-scholarships/'
+      '/category/target-group/asians-scholarships/east-asians-scholarships/'
+      '/category/field-of-study/humanities-scholarships/'
+      '/category/target-group/east-europeans-scholarships/'

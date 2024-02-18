@@ -5,14 +5,14 @@ import Pagination from "./pagination";
 const List = ({ state }) => {
   // Get the data of the current list.
   const data = state.source.get(state.router.link);
-
   return (
     <Container>
       {/* If the list is a taxonomy, we render a title. */}
       {data.isTaxonomy && (
         <Header>
-          {data.taxonomy}:{" "}
-          <b>{decode(state.source[data.taxonomy][data.id].name)}</b>
+          {data.taxonomy === "category" ? "Scholarships" : "Tags"}{" "}-{" "}
+          <b style={{ textTransform: 'capitalize' }}>{decode(data.route).split('/').at(-2)}</b>
+          {/* <b>{decode(state.source[data.taxonomy][data.id].name)}</b> */}
         </Header>
       )}
 
@@ -37,7 +37,7 @@ const List = ({ state }) => {
 export default connect(List);
 
 const Container = styled.section`
-  width: 800px;
+  width: 1118px;
   margin: 0;
   padding: 24px;
   list-style: none;

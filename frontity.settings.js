@@ -2,9 +2,10 @@ const settings = {
   "name": "scholarship4eth",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.org",
-      "title": "Test Frontity Blog",
-      "description": "WordPress installation for Frontity development"
+      "url": "https://scholars4dev.com",
+      "title": "Scholarships for Developing Countries",
+      "description": "Scholarships for students from developing countries and international students to study abroad."
+
     }
   },
   "packages": [
@@ -17,22 +18,17 @@ const settings = {
               "Home",
               "/"
             ],
-            [
-              "Nature",
-              "/category/nature/"
-            ],
-            [
-              "Travel",
-              "/category/travel/"
-            ],
-            [
-              "Japan",
-              "/tag/japan/"
-            ],
-            [
-              "About Us",
-              "/about-us/"
-            ]
+            ["Asia", "/category/target-group/asians-scholarships/"],
+            ["Europe", "/category/country/europe-scholarships/"],
+            ["Canada", "/category/country/canada-scholarships/"],
+            ["USA", "/category/country/usa-scholarships/"],
+            ["UK", "/category/country/uk-scholarships/"],
+            ["Australia", "/category/country/australia-scholarships/"],
+            ["Netherlands", "/category/country/netherlands-scholarships/"],
+            ["Germany", "/category/country/germany-scholarships/"],
+            ["List", "/category/scholarships-list"],
+            ["Masters", "/category/level-of-study/masters-scholarships/"],
+            ["African Scholarships", "/category/target-group/africans-scholarships/"],
           ],
           "featured": {
             "showOnList": false,
@@ -45,7 +41,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "https://scholars4dev.com"
         }
       }
     },
